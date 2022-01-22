@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-beans-5.2.9.RELEASE.jar" sourcepath="C:/Users/Lenovo/AppData/Local/Temp/.org.sf.feeling.decompiler1637932430980/source/spring-beans-5.2.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-context-5.2.9.RELEASE.jar" sourcepath="C:/Users/Lenovo/AppData/Local/Temp/.org.sf.feeling.decompiler1640694488087/source/spring-context-5.2.9.RELEASE-sources-1640780594145.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-core-5.2.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-expression-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/druid-1.1.22.jar" sourcepath="C:/Users/Lenovo/AppData/Local/Temp/.org.sf.feeling.decompiler1638110748081/source/druid-1.1.22-sources-1638111403319.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/aspectjweaver-1.9.6.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-5.2.9.RELEASE.jar" sourcepath="C:/Users/Lenovo/AppData/Local/Temp/.org.sf.feeling.decompiler1640101727866/source/spring-jdbc-5.2.9.RELEASE-sources-1640436387235.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-slf4j-impl-2.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.30.jar" sourcepath="C:/Users/Lenovo/AppData/Local/Temp/.org.sf.feeling.decompiler1640694488087/source/slf4j-api-1.7.30-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
